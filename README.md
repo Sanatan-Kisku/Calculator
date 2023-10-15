@@ -10,7 +10,6 @@ You can clone this repository or download it as a zip file. Then, open the index
 
 - Responsive design
 - Keyboard support
-- Error handling
 - Dark mode
 
 ## Screenshots
